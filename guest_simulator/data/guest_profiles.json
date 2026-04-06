@@ -1,0 +1,3503 @@
+[
+    {
+        "fullName":  "Aiden Perera",
+        "username":  "Aiden",
+        "email":  "aiden.perera@gmail.com",
+        "contactNumber":  "0701000000",
+        "checkInDate":  "2026-04-05",
+        "checkOutDate":  "2026-04-06",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  61910.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nimal Jayasinghe",
+        "username":  "Nimal",
+        "email":  "nimal.jayasinghe@outlook.com",
+        "contactNumber":  "0711000731",
+        "checkInDate":  "2026-04-08",
+        "checkOutDate":  "2026-04-10",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  91860.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kavya De Alwis",
+        "username":  "Kavya",
+        "email":  "kavya.dealwis@yahoo.com",
+        "contactNumber":  "0721001462",
+        "checkInDate":  "2026-04-11",
+        "checkOutDate":  "2026-04-13",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58540.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ishara Karunaratne",
+        "username":  "Ishara",
+        "email":  "ishara.karunaratne@hotmail.com",
+        "contactNumber":  "0731002193",
+        "checkInDate":  "2026-04-14",
+        "checkOutDate":  "2026-04-17",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  71280.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Maya Mendis",
+        "username":  "Maya",
+        "email":  "maya.mendis@icloud.com",
+        "contactNumber":  "0741002924",
+        "checkInDate":  "2026-04-17",
+        "checkOutDate":  "2026-04-20",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  102560.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ruwan Abeysekera",
+        "username":  "Ruwan",
+        "email":  "ruwan.abeysekera@gmail.com",
+        "contactNumber":  "0751003655",
+        "checkInDate":  "2026-04-20",
+        "checkOutDate":  "2026-04-24",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  123450.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sanjana Pathirana",
+        "username":  "Sanjana",
+        "email":  "sanjana.pathirana@outlook.com",
+        "contactNumber":  "0761004386",
+        "checkInDate":  "2026-04-24",
+        "checkOutDate":  "2026-04-29",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  139200.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dilan Silva",
+        "username":  "Dilan",
+        "email":  "dilan.silva@yahoo.com",
+        "contactNumber":  "0771005117",
+        "checkInDate":  "2026-04-29",
+        "checkOutDate":  "2026-05-05",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  71520.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Anika Wijesinghe",
+        "username":  "Anika",
+        "email":  "anika.wijesinghe@hotmail.com",
+        "contactNumber":  "0781005848",
+        "checkInDate":  "2026-05-05",
+        "checkOutDate":  "2026-05-06",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  56030.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kasun Bandara",
+        "username":  "Kasun",
+        "email":  "kasun.bandara@icloud.com",
+        "contactNumber":  "0791006579",
+        "checkInDate":  "2026-05-06",
+        "checkOutDate":  "2026-05-08",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  104630.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "specialInstruction":  "Do not change the initially selected package. Keep negotiating on that same package even if the agent asks you to switch to another one.",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Tharushi Dias",
+        "username":  "Tharushi",
+        "email":  "tharushi.dias@gmail.com",
+        "contactNumber":  "0701007310",
+        "checkInDate":  "2026-05-08",
+        "checkOutDate":  "2026-05-10",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  63060.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Yohan Samarasinghe",
+        "username":  "Yohan",
+        "email":  "yohan.samarasinghe@outlook.com",
+        "contactNumber":  "0711008041",
+        "checkInDate":  "2026-05-10",
+        "checkOutDate":  "2026-05-13",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  79640.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nethmi Cooray",
+        "username":  "Nethmi",
+        "email":  "nethmi.cooray@yahoo.com",
+        "contactNumber":  "0721008772",
+        "checkInDate":  "2026-05-13",
+        "checkOutDate":  "2026-05-16",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  127320.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Vihanga Nawaratne",
+        "username":  "Vihanga",
+        "email":  "vihanga.nawaratne@hotmail.com",
+        "contactNumber":  "0731009503",
+        "checkInDate":  "2026-05-16",
+        "checkOutDate":  "2026-05-20",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  126800.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Amara Fernando",
+        "username":  "Amara",
+        "email":  "amara.fernando@icloud.com",
+        "contactNumber":  "0741010234",
+        "checkInDate":  "2026-05-20",
+        "checkOutDate":  "2026-05-25",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  115100.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ravindu Ranasinghe",
+        "username":  "Ravindu",
+        "email":  "ravindu.ranasinghe@gmail.com",
+        "contactNumber":  "0751010965",
+        "checkInDate":  "2026-05-25",
+        "checkOutDate":  "2026-05-31",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  148530.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dinara Gunawardena",
+        "username":  "Dinara",
+        "email":  "dinara.gunawardena@outlook.com",
+        "contactNumber":  "0761011696",
+        "checkInDate":  "2026-05-31",
+        "checkOutDate":  "2026-06-01",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  64030.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Lakshan Rajapaksa",
+        "username":  "Lakshan",
+        "email":  "lakshan.rajapaksa@yahoo.com",
+        "contactNumber":  "0771012427",
+        "checkInDate":  "2026-06-01",
+        "checkOutDate":  "2026-06-03",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  105180.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Piumi Peris",
+        "username":  "Piumi",
+        "email":  "piumi.peris@hotmail.com",
+        "contactNumber":  "0781013158",
+        "checkInDate":  "2026-06-03",
+        "checkOutDate":  "2026-06-05",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  60500.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sameera Herath",
+        "username":  "Sameera",
+        "email":  "sameera.herath@icloud.com",
+        "contactNumber":  "0791013889",
+        "checkInDate":  "2026-06-05",
+        "checkOutDate":  "2026-06-08",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  76000.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Zara Perera",
+        "username":  "Zara",
+        "email":  "zara.perera@gmail.com",
+        "contactNumber":  "0701014620",
+        "checkInDate":  "2026-06-08",
+        "checkOutDate":  "2026-06-11",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  107270.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Oshan Jayasinghe",
+        "username":  "Oshan",
+        "email":  "oshan.jayasinghe@outlook.com",
+        "contactNumber":  "0711015351",
+        "checkInDate":  "2026-06-11",
+        "checkOutDate":  "2026-06-15",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  109470.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nadeesha De Alwis",
+        "username":  "Nadeesha",
+        "email":  "nadeesha.dealwis@yahoo.com",
+        "contactNumber":  "0721016082",
+        "checkInDate":  "2026-06-15",
+        "checkOutDate":  "2026-06-20",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  136650.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Rashmi Karunaratne",
+        "username":  "Rashmi",
+        "email":  "rashmi.karunaratne@hotmail.com",
+        "contactNumber":  "0731016813",
+        "checkInDate":  "2026-06-20",
+        "checkOutDate":  "2026-06-26",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  74350.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Viraj Mendis",
+        "username":  "Viraj",
+        "email":  "viraj.mendis@icloud.com",
+        "contactNumber":  "0741017544",
+        "checkInDate":  "2026-06-26",
+        "checkOutDate":  "2026-06-27",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58850.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Imani Abeysekera",
+        "username":  "Imani",
+        "email":  "imani.abeysekera@gmail.com",
+        "contactNumber":  "0751018275",
+        "checkInDate":  "2026-06-27",
+        "checkOutDate":  "2026-06-29",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  97290.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Joel Pathirana",
+        "username":  "Joel",
+        "email":  "joel.pathirana@outlook.com",
+        "contactNumber":  "0761019006",
+        "checkInDate":  "2026-06-29",
+        "checkOutDate":  "2026-07-01",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  64250.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nisali Silva",
+        "username":  "Nisali",
+        "email":  "nisali.silva@yahoo.com",
+        "contactNumber":  "0771019737",
+        "checkInDate":  "2026-07-01",
+        "checkOutDate":  "2026-07-04",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  130930.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Tarindu Wijesinghe",
+        "username":  "Tarindu",
+        "email":  "tarindu.wijesinghe@hotmail.com",
+        "contactNumber":  "0781020468",
+        "checkInDate":  "2026-07-04",
+        "checkOutDate":  "2026-07-07",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  129810.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Heshani Bandara",
+        "username":  "Heshani",
+        "email":  "heshani.bandara@icloud.com",
+        "contactNumber":  "0791021199",
+        "checkInDate":  "2026-07-07",
+        "checkOutDate":  "2026-07-11",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  119090.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kevin Dias",
+        "username":  "Kevin",
+        "email":  "kevin.dias@gmail.com",
+        "contactNumber":  "0701021930",
+        "checkInDate":  "2026-07-11",
+        "checkOutDate":  "2026-07-16",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  116810.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dilki Samarasinghe",
+        "username":  "Dilki",
+        "email":  "dilki.samarasinghe@outlook.com",
+        "contactNumber":  "0711022661",
+        "checkInDate":  "2026-07-16",
+        "checkOutDate":  "2026-07-22",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  77760.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Arosha Cooray",
+        "username":  "Arosha",
+        "email":  "arosha.cooray@yahoo.com",
+        "contactNumber":  "0721023392",
+        "checkInDate":  "2026-07-22",
+        "checkOutDate":  "2026-07-23",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  60450.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Fathima Nawaratne",
+        "username":  "Fathima",
+        "email":  "fathima.nawaratne@hotmail.com",
+        "contactNumber":  "0731024123",
+        "checkInDate":  "2026-07-23",
+        "checkOutDate":  "2026-07-25",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  92690.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Shehan Fernando",
+        "username":  "Shehan",
+        "email":  "shehan.fernando@icloud.com",
+        "contactNumber":  "0741024854",
+        "checkInDate":  "2026-07-25",
+        "checkOutDate":  "2026-07-27",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58030.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Taniya Ranasinghe",
+        "username":  "Taniya",
+        "email":  "taniya.ranasinghe@gmail.com",
+        "contactNumber":  "0751025585",
+        "checkInDate":  "2026-07-27",
+        "checkOutDate":  "2026-07-30",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  117570.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Milan Gunawardena",
+        "username":  "Milan",
+        "email":  "milan.gunawardena@outlook.com",
+        "contactNumber":  "0761026316",
+        "checkInDate":  "2026-07-30",
+        "checkOutDate":  "2026-08-02",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  105710.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nethra Rajapaksa",
+        "username":  "Nethra",
+        "email":  "nethra.rajapaksa@yahoo.com",
+        "contactNumber":  "0771027047",
+        "checkInDate":  "2026-08-02",
+        "checkOutDate":  "2026-08-06",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  116520.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sajith Peris",
+        "username":  "Sajith",
+        "email":  "sajith.peris@hotmail.com",
+        "contactNumber":  "0781027778",
+        "checkInDate":  "2026-08-06",
+        "checkOutDate":  "2026-08-11",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  72580.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Minoli Herath",
+        "username":  "Minoli",
+        "email":  "minoli.herath@icloud.com",
+        "contactNumber":  "0791028509",
+        "checkInDate":  "2026-08-11",
+        "checkOutDate":  "2026-08-17",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  74040.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Aqeel Perera",
+        "username":  "Aqeel",
+        "email":  "aqeel.perera@gmail.com",
+        "contactNumber":  "0701029240",
+        "checkInDate":  "2026-08-17",
+        "checkOutDate":  "2026-08-18",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  55480.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Pamodi Jayasinghe",
+        "username":  "Pamodi",
+        "email":  "pamodi.jayasinghe@outlook.com",
+        "contactNumber":  "0711029971",
+        "checkInDate":  "2026-08-18",
+        "checkOutDate":  "2026-08-20",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  90150.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Gihan De Alwis",
+        "username":  "Gihan",
+        "email":  "gihan.dealwis@yahoo.com",
+        "contactNumber":  "0721030702",
+        "checkInDate":  "2026-08-20",
+        "checkOutDate":  "2026-08-22",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  63550.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Shenali Karunaratne",
+        "username":  "Shenali",
+        "email":  "shenali.karunaratne@hotmail.com",
+        "contactNumber":  "0731031433",
+        "checkInDate":  "2026-08-22",
+        "checkOutDate":  "2026-08-25",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  125070.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ramesh Mendis",
+        "username":  "Ramesh",
+        "email":  "ramesh.mendis@icloud.com",
+        "contactNumber":  "0741032164",
+        "checkInDate":  "2026-08-25",
+        "checkOutDate":  "2026-08-28",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  109620.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Iresha Abeysekera",
+        "username":  "Iresha",
+        "email":  "iresha.abeysekera@gmail.com",
+        "contactNumber":  "0751032895",
+        "checkInDate":  "2026-08-28",
+        "checkOutDate":  "2026-09-01",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  100950.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Malith Pathirana",
+        "username":  "Malith",
+        "email":  "malith.pathirana@outlook.com",
+        "contactNumber":  "0761033626",
+        "checkInDate":  "2026-09-01",
+        "checkOutDate":  "2026-09-06",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  130600.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Navya Silva",
+        "username":  "Navya",
+        "email":  "navya.silva@yahoo.com",
+        "contactNumber":  "0771034357",
+        "checkInDate":  "2026-09-06",
+        "checkOutDate":  "2026-09-12",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  125640.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Suren Wijesinghe",
+        "username":  "Suren",
+        "email":  "suren.wijesinghe@hotmail.com",
+        "contactNumber":  "0781035088",
+        "checkInDate":  "2026-09-12",
+        "checkOutDate":  "2026-09-13",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58780.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Akeesha Bandara",
+        "username":  "Akeesha",
+        "email":  "akeesha.bandara@icloud.com",
+        "contactNumber":  "0791035819",
+        "checkInDate":  "2026-09-13",
+        "checkOutDate":  "2026-09-15",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  93780.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Aiden Dias",
+        "username":  "Aiden",
+        "email":  "aiden.dias@gmail.com",
+        "contactNumber":  "0701036550",
+        "checkInDate":  "2026-09-15",
+        "checkOutDate":  "2026-09-17",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  59210.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nimal Samarasinghe",
+        "username":  "Nimal",
+        "email":  "nimal.samarasinghe@outlook.com",
+        "contactNumber":  "0711037281",
+        "checkInDate":  "2026-09-17",
+        "checkOutDate":  "2026-09-20",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  75590.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kavya Cooray",
+        "username":  "Kavya",
+        "email":  "kavya.cooray@yahoo.com",
+        "contactNumber":  "0721038012",
+        "checkInDate":  "2026-09-20",
+        "checkOutDate":  "2026-09-23",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  107630.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ishara Nawaratne",
+        "username":  "Ishara",
+        "email":  "ishara.nawaratne@hotmail.com",
+        "contactNumber":  "0731038743",
+        "checkInDate":  "2026-09-23",
+        "checkOutDate":  "2026-09-27",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  116290.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Maya Fernando",
+        "username":  "Maya",
+        "email":  "maya.fernando@icloud.com",
+        "contactNumber":  "0741039474",
+        "checkInDate":  "2026-09-27",
+        "checkOutDate":  "2026-10-02",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  142810.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ruwan Ranasinghe",
+        "username":  "Ruwan",
+        "email":  "ruwan.ranasinghe@gmail.com",
+        "contactNumber":  "0751040205",
+        "checkInDate":  "2026-10-02",
+        "checkOutDate":  "2026-10-08",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  127740.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sanjana Gunawardena",
+        "username":  "Sanjana",
+        "email":  "sanjana.gunawardena@outlook.com",
+        "contactNumber":  "0761040936",
+        "checkInDate":  "2026-10-08",
+        "checkOutDate":  "2026-10-09",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58290.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dilan Rajapaksa",
+        "username":  "Dilan",
+        "email":  "dilan.rajapaksa@yahoo.com",
+        "contactNumber":  "0771041667",
+        "checkInDate":  "2026-10-09",
+        "checkOutDate":  "2026-10-11",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  103360.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Anika Peris",
+        "username":  "Anika",
+        "email":  "anika.peris@hotmail.com",
+        "contactNumber":  "0781042398",
+        "checkInDate":  "2026-10-11",
+        "checkOutDate":  "2026-10-13",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  55450.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kasun Herath",
+        "username":  "Kasun",
+        "email":  "kasun.herath@icloud.com",
+        "contactNumber":  "0791043129",
+        "checkInDate":  "2026-10-13",
+        "checkOutDate":  "2026-10-16",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  144350.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Tharushi Perera",
+        "username":  "Tharushi",
+        "email":  "tharushi.perera@gmail.com",
+        "contactNumber":  "0701043860",
+        "checkInDate":  "2026-10-16",
+        "checkOutDate":  "2026-10-19",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  100900.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Yohan Jayasinghe",
+        "username":  "Yohan",
+        "email":  "yohan.jayasinghe@outlook.com",
+        "contactNumber":  "0711044591",
+        "checkInDate":  "2026-10-19",
+        "checkOutDate":  "2026-10-23",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  107770.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nethmi De Alwis",
+        "username":  "Nethmi",
+        "email":  "nethmi.dealwis@yahoo.com",
+        "contactNumber":  "0721045322",
+        "checkInDate":  "2026-10-23",
+        "checkOutDate":  "2026-10-28",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  72120.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Vihanga Karunaratne",
+        "username":  "Vihanga",
+        "email":  "vihanga.karunaratne@hotmail.com",
+        "contactNumber":  "0731046053",
+        "checkInDate":  "2026-10-28",
+        "checkOutDate":  "2026-11-03",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  72850.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Amara Mendis",
+        "username":  "Amara",
+        "email":  "amara.mendis@icloud.com",
+        "contactNumber":  "0741046784",
+        "checkInDate":  "2026-11-03",
+        "checkOutDate":  "2026-11-04",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58200.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ravindu Abeysekera",
+        "username":  "Ravindu",
+        "email":  "ravindu.abeysekera@gmail.com",
+        "contactNumber":  "0751047515",
+        "checkInDate":  "2026-11-04",
+        "checkOutDate":  "2026-11-06",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  114720.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dinara Pathirana",
+        "username":  "Dinara",
+        "email":  "dinara.pathirana@outlook.com",
+        "contactNumber":  "0761048246",
+        "checkInDate":  "2026-11-06",
+        "checkOutDate":  "2026-11-08",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  59940.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Lakshan Silva",
+        "username":  "Lakshan",
+        "email":  "lakshan.silva@yahoo.com",
+        "contactNumber":  "0771048977",
+        "checkInDate":  "2026-11-08",
+        "checkOutDate":  "2026-11-11",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  73360.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Piumi Wijesinghe",
+        "username":  "Piumi",
+        "email":  "piumi.wijesinghe@hotmail.com",
+        "contactNumber":  "0781049708",
+        "checkInDate":  "2026-11-11",
+        "checkOutDate":  "2026-11-14",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  116280.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sameera Bandara",
+        "username":  "Sameera",
+        "email":  "sameera.bandara@icloud.com",
+        "contactNumber":  "0791050439",
+        "checkInDate":  "2026-11-14",
+        "checkOutDate":  "2026-11-18",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  122230.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Zara Dias",
+        "username":  "Zara",
+        "email":  "zara.dias@gmail.com",
+        "contactNumber":  "0701051170",
+        "checkInDate":  "2026-11-18",
+        "checkOutDate":  "2026-11-23",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  68880.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Oshan Samarasinghe",
+        "username":  "Oshan",
+        "email":  "oshan.samarasinghe@outlook.com",
+        "contactNumber":  "0711051901",
+        "checkInDate":  "2026-11-23",
+        "checkOutDate":  "2026-11-29",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  135590.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nadeesha Cooray",
+        "username":  "Nadeesha",
+        "email":  "nadeesha.cooray@yahoo.com",
+        "contactNumber":  "0721052632",
+        "checkInDate":  "2026-11-29",
+        "checkOutDate":  "2026-11-30",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  60030.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Rashmi Nawaratne",
+        "username":  "Rashmi",
+        "email":  "rashmi.nawaratne@hotmail.com",
+        "contactNumber":  "0731053363",
+        "checkInDate":  "2026-11-30",
+        "checkOutDate":  "2026-12-02",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  103470.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Viraj Fernando",
+        "username":  "Viraj",
+        "email":  "viraj.fernando@icloud.com",
+        "contactNumber":  "0741054094",
+        "checkInDate":  "2026-12-02",
+        "checkOutDate":  "2026-12-04",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  59720.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Imani Ranasinghe",
+        "username":  "Imani",
+        "email":  "imani.ranasinghe@gmail.com",
+        "contactNumber":  "0751054825",
+        "checkInDate":  "2026-12-04",
+        "checkOutDate":  "2026-12-07",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  148870.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Joel Gunawardena",
+        "username":  "Joel",
+        "email":  "joel.gunawardena@outlook.com",
+        "contactNumber":  "0761055556",
+        "checkInDate":  "2026-12-07",
+        "checkOutDate":  "2026-12-10",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  106930.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nisali Rajapaksa",
+        "username":  "Nisali",
+        "email":  "nisali.rajapaksa@yahoo.com",
+        "contactNumber":  "0771056287",
+        "checkInDate":  "2026-12-10",
+        "checkOutDate":  "2026-12-14",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  107130.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Tarindu Peris",
+        "username":  "Tarindu",
+        "email":  "tarindu.peris@hotmail.com",
+        "contactNumber":  "0781057018",
+        "checkInDate":  "2026-12-14",
+        "checkOutDate":  "2026-12-19",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  129740.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "tries to bundle extras",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Heshani Herath",
+        "username":  "Heshani",
+        "email":  "heshani.herath@icloud.com",
+        "contactNumber":  "0791057749",
+        "checkInDate":  "2026-12-19",
+        "checkOutDate":  "2026-12-25",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  147900.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Kevin Perera",
+        "username":  "Kevin",
+        "email":  "kevin.perera@gmail.com",
+        "contactNumber":  "0701058480",
+        "checkInDate":  "2026-12-25",
+        "checkOutDate":  "2026-12-26",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  62340.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Dilki Jayasinghe",
+        "username":  "Dilki",
+        "email":  "dilki.jayasinghe@outlook.com",
+        "contactNumber":  "0711059211",
+        "checkInDate":  "2026-12-26",
+        "checkOutDate":  "2026-12-28",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  92070.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Arosha De Alwis",
+        "username":  "Arosha",
+        "email":  "arosha.dealwis@yahoo.com",
+        "contactNumber":  "0721059942",
+        "checkInDate":  "2026-12-28",
+        "checkOutDate":  "2026-12-30",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  55320.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Fathima Karunaratne",
+        "username":  "Fathima",
+        "email":  "fathima.karunaratne@hotmail.com",
+        "contactNumber":  "0731060673",
+        "checkInDate":  "2026-12-30",
+        "checkOutDate":  "2027-01-02",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  68430.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "moves quickly once value is clear",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Shehan Mendis",
+        "username":  "Shehan",
+        "email":  "shehan.mendis@icloud.com",
+        "contactNumber":  "0741061404",
+        "checkInDate":  "2027-01-02",
+        "checkOutDate":  "2027-01-05",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  99430.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Taniya Abeysekera",
+        "username":  "Taniya",
+        "email":  "taniya.abeysekera@gmail.com",
+        "contactNumber":  "0751062135",
+        "checkInDate":  "2027-01-05",
+        "checkOutDate":  "2027-01-09",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  113200.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Milan Pathirana",
+        "username":  "Milan",
+        "email":  "milan.pathirana@outlook.com",
+        "contactNumber":  "0761062866",
+        "checkInDate":  "2027-01-09",
+        "checkOutDate":  "2027-01-14",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  117220.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Nethra Silva",
+        "username":  "Nethra",
+        "email":  "nethra.silva@yahoo.com",
+        "contactNumber":  "0771063597",
+        "checkInDate":  "2027-01-14",
+        "checkOutDate":  "2027-01-20",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  74510.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Sajith Wijesinghe",
+        "username":  "Sajith",
+        "email":  "sajith.wijesinghe@hotmail.com",
+        "contactNumber":  "0781064328",
+        "checkInDate":  "2027-01-20",
+        "checkOutDate":  "2027-01-21",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  62060.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Minoli Bandara",
+        "username":  "Minoli",
+        "email":  "minoli.bandara@icloud.com",
+        "contactNumber":  "0791065059",
+        "checkInDate":  "2027-01-21",
+        "checkOutDate":  "2027-01-23",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  91650.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Aqeel Dias",
+        "username":  "Aqeel",
+        "email":  "aqeel.dias@gmail.com",
+        "contactNumber":  "0701065790",
+        "checkInDate":  "2027-01-23",
+        "checkOutDate":  "2027-01-25",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  55840.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "becomes more positive after small concession",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Pamodi Samarasinghe",
+        "username":  "Pamodi",
+        "email":  "pamodi.samarasinghe@outlook.com",
+        "contactNumber":  "0711066521",
+        "checkInDate":  "2027-01-25",
+        "checkOutDate":  "2027-01-28",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "medical visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  72930.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Gihan Cooray",
+        "username":  "Gihan",
+        "email":  "gihan.cooray@yahoo.com",
+        "contactNumber":  "0721067252",
+        "checkInDate":  "2027-01-28",
+        "checkOutDate":  "2027-01-31",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "weekend getaway"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  106500.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "insufficient room upgrade value"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Shenali Nawaratne",
+        "username":  "Shenali",
+        "email":  "shenali.nawaratne@hotmail.com",
+        "contactNumber":  "0731067983",
+        "checkInDate":  "2027-01-31",
+        "checkOutDate":  "2027-02-04",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "business"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  112100.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for extras with same price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ramesh Fernando",
+        "username":  "Ramesh",
+        "email":  "ramesh.fernando@icloud.com",
+        "contactNumber":  "0741068714",
+        "checkInDate":  "2027-02-04",
+        "checkOutDate":  "2027-02-09",
+        "bookingDetails":  {
+                               "stayNights":  5,
+                               "guestCount":  2,
+                               "travelPurpose":  "solo retreat"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  113830.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "positive and receptive, likely to accept a fair offer",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Iresha Ranasinghe",
+        "username":  "Iresha",
+        "email":  "iresha.ranasinghe@gmail.com",
+        "contactNumber":  "0751069445",
+        "checkInDate":  "2027-02-09",
+        "checkOutDate":  "2027-02-15",
+        "bookingDetails":  {
+                               "stayNights":  6,
+                               "guestCount":  2,
+                               "travelPurpose":  "conference visit"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  143760.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "enthusiastic and eager, interested in quick confirmation",
+                               "acceptanceLikelihood":  1,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "requests package details",
+                                   "likelyBehavior":  "waits before accepting",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Malith Gunawardena",
+        "username":  "Malith",
+        "email":  "malith.gunawardena@outlook.com",
+        "contactNumber":  "0761070176",
+        "checkInDate":  "2027-02-15",
+        "checkOutDate":  "2027-02-16",
+        "bookingDetails":  {
+                               "stayNights":  1,
+                               "guestCount":  1,
+                               "travelPurpose":  "family vacation"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58350.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "price-sensitive, complains about high rates, pushes for immediate discounts",
+                               "acceptanceLikelihood":  0.65,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "lack of included meals"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Navya Rajapaksa",
+        "username":  "Navya",
+        "email":  "navya.rajapaksa@yahoo.com",
+        "contactNumber":  "0771070907",
+        "checkInDate":  "2027-02-16",
+        "checkOutDate":  "2027-02-18",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "friends trip"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  90070.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "careful and uncertain, compares multiple options before committing",
+                               "acceptanceLikelihood":  0.35,
+                               "urgencyLevel":  "medium"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "check-in policy mismatch"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Suren Peris",
+        "username":  "Suren",
+        "email":  "suren.peris@hotmail.com",
+        "contactNumber":  "0781071638",
+        "checkInDate":  "2027-02-18",
+        "checkOutDate":  "2027-02-20",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "wedding attendance"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  62180.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "straightforward and factual, focuses on clear information",
+                               "acceptanceLikelihood":  0.8,
+                               "urgencyLevel":  "high"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "compares with another hotel",
+                                   "likelyBehavior":  "asks multiple clarification questions",
+                                   "walkAwayReason":  "no flexible cancellation"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Akeesha Herath",
+        "username":  "Akeesha",
+        "email":  "akeesha.herath@icloud.com",
+        "contactNumber":  "0791072369",
+        "checkInDate":  "2027-02-20",
+        "checkOutDate":  "2027-02-23",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "anniversary"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  148130.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "engaged and curious, asks follow-up questions about value",
+                               "acceptanceLikelihood":  0.5,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "checks availability first",
+                                   "likelyBehavior":  "pushes for discount early",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "YES"
+    },
+    {
+        "fullName":  "Ashen Perera",
+        "username":  "Ashen",
+        "email":  "ashen.perera@gmail.com",
+        "contactNumber":  "070000000",
+        "checkInDate":  "2027-02-23",
+        "checkOutDate":  "2027-02-25",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  40000.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Nivashi Jayasinghe",
+        "username":  "Nivashi",
+        "email":  "nivashi.jayasinghe@outlook.com",
+        "contactNumber":  "070000001",
+        "checkInDate":  "2027-02-25",
+        "checkOutDate":  "2027-02-28",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  41230.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Charith De Alwis",
+        "username":  "Charith",
+        "email":  "charith.de alwis@yahoo.com",
+        "contactNumber":  "070000002",
+        "checkInDate":  "2027-02-28",
+        "checkOutDate":  "2027-03-04",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  3,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  42470.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "FRUSTRATED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Mithila Karunaratne",
+        "username":  "Mithila",
+        "email":  "mithila.karunaratne@hotmail.com",
+        "contactNumber":  "070000003",
+        "checkInDate":  "2027-03-04",
+        "checkOutDate":  "2027-03-06",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  43700.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Vishwa Mendis",
+        "username":  "Vishwa",
+        "email":  "vishwa.mendis@icloud.com",
+        "contactNumber":  "070000004",
+        "checkInDate":  "2027-03-06",
+        "checkOutDate":  "2027-03-09",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  44940.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Sadeepa Abeysekera",
+        "username":  "Sadeepa",
+        "email":  "sadeepa.abeysekera@gmail.com",
+        "contactNumber":  "070000005",
+        "checkInDate":  "2027-03-09",
+        "checkOutDate":  "2027-03-13",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  46170.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "HESITANT",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Dinithi Pathirana",
+        "username":  "Dinithi",
+        "email":  "dinithi.pathirana@outlook.com",
+        "contactNumber":  "070000006",
+        "checkInDate":  "2027-03-13",
+        "checkOutDate":  "2027-03-15",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  47400.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Rukshan Silva",
+        "username":  "Rukshan",
+        "email":  "rukshan.silva@yahoo.com",
+        "contactNumber":  "070000007",
+        "checkInDate":  "2027-03-15",
+        "checkOutDate":  "2027-03-18",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  48640.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Oviya Wijesinghe",
+        "username":  "Oviya",
+        "email":  "oviya.wijesinghe@hotmail.com",
+        "contactNumber":  "070000008",
+        "checkInDate":  "2027-03-18",
+        "checkOutDate":  "2027-03-22",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  49870.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "NEUTRAL",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Thilina Bandara",
+        "username":  "Thilina",
+        "email":  "thilina.bandara@icloud.com",
+        "contactNumber":  "070000009",
+        "checkInDate":  "2027-03-22",
+        "checkOutDate":  "2027-03-24",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  51110.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Shavindi Dias",
+        "username":  "Shavindi",
+        "email":  "shavindi.dias@gmail.com",
+        "contactNumber":  "070000010",
+        "checkInDate":  "2027-03-24",
+        "checkOutDate":  "2027-03-27",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  3,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  52340.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Pasindu Samarasinghe",
+        "username":  "Pasindu",
+        "email":  "pasindu.samarasinghe@outlook.com",
+        "contactNumber":  "070000011",
+        "checkInDate":  "2027-03-27",
+        "checkOutDate":  "2027-03-31",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  53570.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "INTERESTED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Rivini Cooray",
+        "username":  "Rivini",
+        "email":  "rivini.cooray@yahoo.com",
+        "contactNumber":  "070000012",
+        "checkInDate":  "2027-03-31",
+        "checkOutDate":  "2027-04-02",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  54810.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Udara Nawaratne",
+        "username":  "Udara",
+        "email":  "udara.nawaratne@hotmail.com",
+        "contactNumber":  "070000013",
+        "checkInDate":  "2027-04-02",
+        "checkOutDate":  "2027-04-05",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  56040.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Keshani Fernando",
+        "username":  "Keshani",
+        "email":  "keshani.fernando@icloud.com",
+        "contactNumber":  "070000014",
+        "checkInDate":  "2027-04-05",
+        "checkOutDate":  "2027-04-09",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  3,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  57280.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Chathura Ranasinghe",
+        "username":  "Chathura",
+        "email":  "chathura.ranasinghe@gmail.com",
+        "contactNumber":  "070000015",
+        "checkInDate":  "2027-04-09",
+        "checkOutDate":  "2027-04-11",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  58510.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "SATISFIED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Ishadi Gunawardena",
+        "username":  "Ishadi",
+        "email":  "ishadi.gunawardena@outlook.com",
+        "contactNumber":  "070000016",
+        "checkInDate":  "2027-04-11",
+        "checkOutDate":  "2027-04-14",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  1,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  59740.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Dushyan Rajapaksa",
+        "username":  "Dushyan",
+        "email":  "dushyan.rajapaksa@yahoo.com",
+        "contactNumber":  "070000017",
+        "checkInDate":  "2027-04-14",
+        "checkOutDate":  "2027-04-18",
+        "bookingDetails":  {
+                               "stayNights":  4,
+                               "guestCount":  2,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  40980.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Hashini Peris",
+        "username":  "Hashini",
+        "email":  "hashini.peris@hotmail.com",
+        "contactNumber":  "070000018",
+        "checkInDate":  "2027-04-18",
+        "checkOutDate":  "2027-04-20",
+        "bookingDetails":  {
+                               "stayNights":  2,
+                               "guestCount":  3,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  42210.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    },
+    {
+        "fullName":  "Rifzan Herath",
+        "username":  "Rifzan",
+        "email":  "rifzan.herath@icloud.com",
+        "contactNumber":  "070000019",
+        "checkInDate":  "2027-04-20",
+        "checkOutDate":  "2027-04-23",
+        "bookingDetails":  {
+                               "stayNights":  3,
+                               "guestCount":  5,
+                               "travelPurpose":  "leisure"
+                           },
+        "budgetProfile":  {
+                              "currency":  "LKR",
+                              "maxBudgetPerNight":  43450.0
+                          },
+        "emotionProfile":  {
+                               "primaryEmotion":  "EXCITED",
+                               "description":  "strict budget user",
+                               "acceptanceLikelihood":  0.2,
+                               "urgencyLevel":  "low"
+                           },
+        "negotiationProfile":  {
+                                   "openingIntent":  "asks for better price",
+                                   "likelyBehavior":  "rejects if over budget",
+                                   "specialInstruction":  "DO NOT exceed budget. Strict.",
+                                   "walkAwayReason":  "price exceeds budget"
+                               },
+        "priceAdoption":  "NO"
+    }
+]
