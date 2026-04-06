@@ -1,0 +1,11 @@
+{
+  "overall": 0.87,
+  "classes": {
+    "FRUSTRATED": 0.86,
+    "HESITANT": 0.85,
+    "NEUTRAL": 0.81,
+    "INTERESTED": 0.89,
+    "SATISFIED": 0.9,
+    "EXCITED": 0.88
+  }
+}

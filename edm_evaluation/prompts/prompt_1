@@ -1,0 +1,16 @@
+Pick one label only:
+FRUSTRATED, HESITANT, NEUTRAL, INTERESTED, SATISFIED, EXCITED
+
+Simple meanings:
+- FRUSTRATED = upset, complaining, or unhappy
+- HESITANT = unsure, waiting, or not ready
+- NEUTRAL = mostly factual or flat
+- INTERESTED = wants to know more
+- SATISFIED = happy or okay with it
+- EXCITED = very happy or eager
+
+Use the message on its own and choose the closest label.
+If it's hard to tell, choose NEUTRAL.
+
+Return only valid JSON:
+{"emotion":"NEUTRAL","confidence":0.87,"reasoning":"one short sentence"}

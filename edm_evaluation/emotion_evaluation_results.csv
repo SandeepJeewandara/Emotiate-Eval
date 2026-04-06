@@ -1,0 +1,601 @@
+text,expected_emotion,llm_predict
+This offer feels wildly expensive,FRUSTRATED,FRUSTRATED
+Why does tax cost so much,FRUSTRATED,FRUSTRATED
+This price feels wildly expensive,FRUSTRATED,FRUSTRATED
+Why is the final total still unacceptable,FRUSTRATED,FRUSTRATED
+I cannot make the quoted total work,FRUSTRATED,FRUSTRATED
+This is too much for this package,FRUSTRATED,FRUSTRATED
+I expected better value here,FRUSTRATED,FRUSTRATED
+Why does late checkout cost so much tonight,FRUSTRATED,FRUSTRATED
+This is hard to accept for a standard room,FRUSTRATED,FRUSTRATED
+Every add-on pushes it higher,FRUSTRATED,FRUSTRATED
+This is far too high for these dates,FRUSTRATED,FRUSTRATED
+Why is the weekend rate absurd,FRUSTRATED,FRUSTRATED
+I expected better value than your final offer,FRUSTRATED,FRUSTRATED
+"I asked for a fairer deal, not unexpected fees",FRUSTRATED,FRUSTRATED
+Why does late checkout cost this much,FRUSTRATED,FRUSTRATED
+I expected more flexibility than that quote,FRUSTRATED,FRUSTRATED
+Why is the package still that expensive,FRUSTRATED,FRUSTRATED
+Why does parking cost this much here,FRUSTRATED,FRUSTRATED
+I expected fewer charges than that quote,FRUSTRATED,FRUSTRATED
+Why is your quote still so high,FRUSTRATED,FRUSTRATED
+Why does airport pickup cost that much,FRUSTRATED,FRUSTRATED
+Not paying that for one night,FRUSTRATED,FRUSTRATED
+I cannot make this rate work,FRUSTRATED,FRUSTRATED
+Why is this room still unacceptable,FRUSTRATED,FRUSTRATED
+Why is this room still beyond budget,FRUSTRATED,FRUSTRATED
+"I asked for a fairer deal, not this expensive package",FRUSTRATED,FRUSTRATED
+"I asked for a simpler room, not this expensive package",FRUSTRATED,FRUSTRATED
+That charge makes this impossible,FRUSTRATED,FRUSTRATED
+"I asked for something affordable, not unexpected fees",FRUSTRATED,FRUSTRATED
+I expected a lower rate than this package,FRUSTRATED,FRUSTRATED
+I expected something fairer than your final offer,FRUSTRATED,FRUSTRATED
+I expected more flexibility than this,FRUSTRATED,FRUSTRATED
+Why does dinner cost that much,FRUSTRATED,FRUSTRATED
+This package feels wildly expensive,FRUSTRATED,FRUSTRATED
+This is hard to accept for these dates,FRUSTRATED,FRUSTRATED
+I expected something fairer than this total,FRUSTRATED,FRUSTRATED
+"I asked for a fairer deal, not a premium price",FRUSTRATED,FRUSTRATED
+"I asked for basic pricing, not extra charges",FRUSTRATED,FRUSTRATED
+Why does the suite cost this much,FRUSTRATED,FRUSTRATED
+"I asked for a simpler room, not unexpected fees",FRUSTRATED,FRUSTRATED
+This rate wipes out my budget,FRUSTRATED,FRUSTRATED
+Why does airport pickup cost this much,FRUSTRATED,FRUSTRATED
+Why does this room cost this much,FRUSTRATED,FRUSTRATED
+I expected a lower rate than your final offer,FRUSTRATED,FRUSTRATED
+This is far too high for that room,FRUSTRATED,FRUSTRATED
+This is a bad price for that room,FRUSTRATED,FRUSTRATED
+This is a bad price for this package,FRUSTRATED,FRUSTRATED
+This is ridiculous for this package,FRUSTRATED,FRUSTRATED
+Why is the package still this steep,FRUSTRATED,FRUSTRATED
+This is hard to accept for this package,FRUSTRATED,FRUSTRATED
+I expected a lower rate than this,FRUSTRATED,FRUSTRATED
+Why is this room still that expensive,FRUSTRATED,FRUSTRATED
+I expected more flexibility than this total,FRUSTRATED,FRUSTRATED
+I cannot make your final number work,FRUSTRATED,FRUSTRATED
+This is far too high for this package,FRUSTRATED,FRUSTRATED
+This is a bad price for one night,FRUSTRATED,FRUSTRATED
+This deal feels unfair,FRUSTRATED,FRUSTRATED
+This is far too high for one night,FRUSTRATED,FRUSTRATED
+Why is the final total still so high,FRUSTRATED,FRUSTRATED
+I expected more flexibility than this package,FRUSTRATED,FRUSTRATED
+Why does the suite cost so much,FRUSTRATED,FRUSTRATED
+Why does parking cost so much,FRUSTRATED,FRUSTRATED
+Why does parking cost so much tonight,FRUSTRATED,FRUSTRATED
+"I asked for a lower rate, not extra charges",FRUSTRATED,FRUSTRATED
+That quote sounds completely unfair,FRUSTRATED,FRUSTRATED
+This is too much for a standard room,FRUSTRATED,FRUSTRATED
+This price feels unfair,FRUSTRATED,FRUSTRATED
+Why does dinner cost so much,FRUSTRATED,FRUSTRATED
+I expected better value than this,FRUSTRATED,FRUSTRATED
+I expected better value than this total,FRUSTRATED,FRUSTRATED
+"I asked for basic pricing, not unexpected fees",FRUSTRATED,FRUSTRATED
+Why does parking cost this much,FRUSTRATED,FRUSTRATED
+This is too much for that room,FRUSTRATED,FRUSTRATED
+I expected better value than that quote,FRUSTRATED,FRUSTRATED
+I expected a lower rate than this total,FRUSTRATED,FRUSTRATED
+This offer feels hard to justify,FRUSTRATED,FRUSTRATED
+Why does this room cost so much,FRUSTRATED,FRUSTRATED
+Why does tax cost this much here,FRUSTRATED,FRUSTRATED
+You quoted less yesterday though,FRUSTRATED,FRUSTRATED
+This is a bad price for a standard room,FRUSTRATED,FRUSTRATED
+Why does this room cost this much here,FRUSTRATED,FRUSTRATED
+I cannot make this package work,FRUSTRATED,FRUSTRATED
+This package feels unfair,FRUSTRATED,FRUSTRATED
+Why is that offer still unacceptable,FRUSTRATED,FRUSTRATED
+I expected fewer charges than this total,FRUSTRATED,FRUSTRATED
+Why does the suite cost this much here,FRUSTRATED,FRUSTRATED
+Your best price still hurts,FRUSTRATED,FRUSTRATED
+This quote feels hard to justify,FRUSTRATED,FRUSTRATED
+This is a bad price for these dates,FRUSTRATED,FRUSTRATED
+"I asked for something affordable, not a premium price",FRUSTRATED,FRUSTRATED
+Why is your quote still beyond budget,FRUSTRATED,FRUSTRATED
+Why is your quote still this steep,FRUSTRATED,FRUSTRATED
+I cannot justify that amount,FRUSTRATED,FRUSTRATED
+Why does tax cost so much tonight,FRUSTRATED,FRUSTRATED
+Why is your quote still that expensive,FRUSTRATED,FRUSTRATED
+This offer feels plain unreasonable,FRUSTRATED,FRUSTRATED
+This quote feels way too steep,FRUSTRATED,FRUSTRATED
+Why does airport pickup cost this much here,FRUSTRATED,FRUSTRATED
+This is far too high for a standard room,FRUSTRATED,FRUSTRATED
+Even budget hotels offers better value,FRUSTRATED,FRUSTRATED
+I need a little breathing room,HESITANT,HESITANT
+"I could book, but I need more time",HESITANT,HESITANT
+Could you keep the package open for a bit,HESITANT,HESITANT
+Can I decide after confirming transport,HESITANT,HESITANT
+I need to sleep on it,HESITANT,HESITANT
+Could you keep those dates open for now,HESITANT,HESITANT
+Could you keep the suite open for now,HESITANT,HESITANT
+Can I decide after reviewing my schedule,HESITANT,HESITANT
+"This sounds fine, but I need time",HESITANT,HESITANT
+"This sounds reasonable, but I should compare",HESITANT,HESITANT
+I am not sure about the full plan,HESITANT,HESITANT
+"This sounds decent, but I need time",HESITANT,HESITANT
+Maybe tomorrow works better for deciding,HESITANT,HESITANT
+Could you keep the package open until tonight,HESITANT,NEUTRAL
+"I could book, but I am still unsure",HESITANT,HESITANT
+I am not sure about the room type,HESITANT,HESITANT
+Could you keep the suite open until tomorrow,HESITANT,HESITANT
+"I could book, but I want to compare first",HESITANT,HESITANT
+Could you keep the suite open for a bit,HESITANT,HESITANT
+"This sounds good, but I want to think",HESITANT,HESITANT
+"I am close, just not ready",HESITANT,HESITANT
+Could you keep this room open for a bit,HESITANT,HESITANT
+"If the dates stay open, I might book",HESITANT,HESITANT
+"This sounds promising, but I need to wait",HESITANT,HESITANT
+Give me a bit to think,HESITANT,HESITANT
+"This sounds reasonable, but I need to wait",HESITANT,HESITANT
+Can I decide after talking to my family,HESITANT,HESITANT
+"This sounds promising, but I am not certain",HESITANT,HESITANT
+"This sounds good, but I am not certain",HESITANT,HESITANT
+"This sounds fine, but I need to wait",HESITANT,HESITANT
+Maybe a cheaper option would suit me better,HESITANT,HESITANT
+"This sounds promising, but I should compare",HESITANT,HESITANT
+Maybe next weekend would suit me better,HESITANT,HESITANT
+Could you keep that offer open for now,HESITANT,HESITANT
+Can I decide after comparing room types,HESITANT,HESITANT
+"This sounds decent, maybe later",HESITANT,HESITANT
+I am not sure about these dates,HESITANT,HESITANT
+Can you hold this till evening,HESITANT,HESITANT
+"This sounds good, but I need time",HESITANT,HESITANT
+Can I decide after checking one more place,HESITANT,HESITANT
+Could you keep this room open until tonight,HESITANT,HESITANT
+Let me compare one more option before I answer,HESITANT,HESITANT
+Let me look at alternatives before I answer,HESITANT,HESITANT
+"If transport works out, I might book",HESITANT,HESITANT
+Could you keep this room open a little longer,HESITANT,HESITANT
+Could you keep those dates open a little longer,HESITANT,HESITANT
+"This sounds decent, but I should compare",HESITANT,HESITANT
+"This sounds fine, but I am not certain",HESITANT,HESITANT
+Maybe a quieter package would suit me better,HESITANT,HESITANT
+"If my friend agrees, I might book",HESITANT,HESITANT
+Could you keep that offer open a little longer,HESITANT,HESITANT
+"I could book, but I cannot decide yet",HESITANT,HESITANT
+"I could book, but I should check elsewhere",HESITANT,HESITANT
+I am not sure about the final price,HESITANT,HESITANT
+Could you keep this room open until tomorrow,HESITANT,HESITANT
+Let me sleep on it before I answer,HESITANT,HESITANT
+"If work clears up, I might book",HESITANT,HESITANT
+Could you keep the package open until tomorrow,HESITANT,HESITANT
+"If the budget fits, I might book",HESITANT,HESITANT
+"This sounds fine, but I should compare",HESITANT,HESITANT
+I need to check flights first,HESITANT,HESITANT
+"I could book, but I need one more detail",HESITANT,INTERESTED
+Could you keep that offer open until tomorrow,HESITANT,HESITANT
+Let me review everything once more,HESITANT,HESITANT
+Maybe another room would suit me better,HESITANT,HESITANT
+Could you keep those dates open until tonight,HESITANT,HESITANT
+Could you keep that offer open for a bit,HESITANT,HESITANT
+Could you keep that offer open until tonight,HESITANT,HESITANT
+"This sounds reasonable, but I want to think",HESITANT,HESITANT
+Could you keep the package open a little longer,HESITANT,HESITANT
+I might confirm after lunch,HESITANT,HESITANT
+"This sounds reasonable, but I need time",HESITANT,HESITANT
+"If the flights line up, I might book",HESITANT,HESITANT
+"This sounds decent, but I need to wait",HESITANT,HESITANT
+I am not sure about this package,HESITANT,HESITANT
+Maybe a flexible deal would suit me better,HESITANT,HESITANT
+Could you keep the suite open a little longer,HESITANT,HESITANT
+"I am leaning yes, slowly",HESITANT,HESITANT
+I am still weighing the options,HESITANT,HESITANT
+Maybe a shorter stay would suit me better,HESITANT,HESITANT
+Could you keep the package open for now,HESITANT,HESITANT
+"This sounds promising, but I need time",HESITANT,HESITANT
+"This sounds good, but I should compare",HESITANT,HESITANT
+"This sounds promising, but I want to think",HESITANT,HESITANT
+I want another hour first,HESITANT,HESITANT
+Maybe I should wait briefly,HESITANT,HESITANT
+"This sounds good, but I need to wait",HESITANT,HESITANT
+Could you keep those dates open until tomorrow,HESITANT,HESITANT
+"This sounds decent, but I want to think",HESITANT,HESITANT
+Let me check a few details before I answer,HESITANT,HESITANT
+I am not sure about the timing,HESITANT,HESITANT
+Could you keep this room open for now,HESITANT,HESITANT
+Could you keep the suite open until tonight,HESITANT,NEUTRAL
+Let me confirm with someone before I answer,HESITANT,HESITANT
+Could you keep those dates open for a bit,HESITANT,HESITANT
+Can I decide after checking other offers,HESITANT,HESITANT
+Could you leave this open,HESITANT,NEUTRAL
+Let me compare two more hotels,HESITANT,HESITANT
+"This sounds decent, but I am not certain",HESITANT,HESITANT
+Let me review my budget before I answer,HESITANT,HESITANT
+Does the room include sea view,NEUTRAL,NEUTRAL
+Does the room include air conditioning,NEUTRAL,NEUTRAL
+Does the room include workspace,NEUTRAL,NEUTRAL
+Can you explain the package details,NEUTRAL,NEUTRAL
+Are there any sea-view rooms,NEUTRAL,NEUTRAL
+What is the room duration,NEUTRAL,NEUTRAL
+Can I modify two rooms together,NEUTRAL,NEUTRAL
+What is the cancellation window,NEUTRAL,NEUTRAL
+Can I reserve two rooms together,NEUTRAL,NEUTRAL
+Can you confirm the booking steps,NEUTRAL,NEUTRAL
+Can I extend the package later,NEUTRAL,NEUTRAL
+What is the booking size,NEUTRAL,NEUTRAL
+What is the policy for smoking,NEUTRAL,NEUTRAL
+What is the room process,NEUTRAL,NEUTRAL
+Can I cancel this booking online,NEUTRAL,NEUTRAL
+Does the room include a balcony,NEUTRAL,NEUTRAL
+What bed type is included,NEUTRAL,NEUTRAL
+Can I cancel this room today,NEUTRAL,NEUTRAL
+Are there any weekend offers,NEUTRAL,NEUTRAL
+Do you provide laundry service,NEUTRAL,NEUTRAL
+Can I extend the dates later,NEUTRAL,NEUTRAL
+Can I modify this booking online,NEUTRAL,NEUTRAL
+Can I modify the package later,NEUTRAL,NEUTRAL
+Can you confirm available dates,NEUTRAL,NEUTRAL
+What is the payment time,NEUTRAL,NEUTRAL
+How does room upgrades work,NEUTRAL,NEUTRAL
+Can I cancel two rooms together,NEUTRAL,NEUTRAL
+Is the pool open daily,NEUTRAL,NEUTRAL
+What is the room method,NEUTRAL,NEUTRAL
+What is the policy for late checkout,NEUTRAL,NEUTRAL
+What is the check-in duration,NEUTRAL,NEUTRAL
+Can I change this booking online,NEUTRAL,NEUTRAL
+What is the package process,NEUTRAL,NEUTRAL
+Can children stay in this room,NEUTRAL,NEUTRAL
+How far is the station,NEUTRAL,NEUTRAL
+Are there any accessible rooms,NEUTRAL,NEUTRAL
+Are there any meeting spaces,NEUTRAL,NEUTRAL
+Is parking free for guests,NEUTRAL,NEUTRAL
+Are there any dinner options,NEUTRAL,NEUTRAL
+Can I modify the dates later,NEUTRAL,NEUTRAL
+What is the payment process,NEUTRAL,NEUTRAL
+Can I extend two rooms together,NEUTRAL,NEUTRAL
+Can I reserve this room today,NEUTRAL,NEUTRAL
+Can I cancel the dates later,NEUTRAL,NEUTRAL
+What is the policy for refunds,NEUTRAL,NEUTRAL
+What is the package duration,NEUTRAL,NEUTRAL
+What is the policy for date changes,NEUTRAL,NEUTRAL
+What is the payment method,NEUTRAL,NEUTRAL
+How does booking modification work,NEUTRAL,NEUTRAL
+How does package customization work,NEUTRAL,NEUTRAL
+What is the room size,NEUTRAL,NEUTRAL
+Do you provide wake-up calls,NEUTRAL,NEUTRAL
+What time does breakfast start,NEUTRAL,NEUTRAL
+What is the policy for group bookings,NEUTRAL,NEUTRAL
+What taxes apply to this,NEUTRAL,NEUTRAL
+How does payment confirmation work,NEUTRAL,NEUTRAL
+Can you confirm the total price,NEUTRAL,NEUTRAL
+What is the package size,NEUTRAL,NEUTRAL
+Can I change the dates later,NEUTRAL,NEUTRAL
+What is the check-in process,NEUTRAL,NEUTRAL
+What is the payment size,NEUTRAL,NEUTRAL
+Do you have connecting rooms,NEUTRAL,NEUTRAL
+Can you confirm the room category,NEUTRAL,NEUTRAL
+What is the booking method,NEUTRAL,NEUTRAL
+Can I change two rooms together,NEUTRAL,NEUTRAL
+Do you provide shuttle service,NEUTRAL,NEUTRAL
+Are there any extra charges,NEUTRAL,NEUTRAL
+How late is check out,NEUTRAL,NEUTRAL
+Can I change the package later,NEUTRAL,NEUTRAL
+How does invoice requests work,NEUTRAL,NEUTRAL
+What is the booking time,NEUTRAL,NEUTRAL
+Can you confirm the full package,NEUTRAL,NEUTRAL
+What is the policy for children,NEUTRAL,NEUTRAL
+Can you confirm check-in time,NEUTRAL,NEUTRAL
+What is the room time,NEUTRAL,NEUTRAL
+What is the policy for pets,NEUTRAL,NEUTRAL
+What is the check-in time,NEUTRAL,NEUTRAL
+Can you confirm room availability,NEUTRAL,NEUTRAL
+Can I reserve this booking online,NEUTRAL,NEUTRAL
+Does the room include bathtub,NEUTRAL,INTERESTED
+Does the room include smart television,NEUTRAL,INTERESTED
+Do you provide baby cots,NEUTRAL,INTERESTED
+Do you offer room service,NEUTRAL,INTERESTED
+What is the booking process,NEUTRAL,INTERESTED
+Do you allow early arrival,NEUTRAL,INTERESTED
+Can I cancel the package later,NEUTRAL,HESITANT
+Is airport transfer included here,NEUTRAL,INTERESTED
+How many guests fit comfortably,NEUTRAL,NEUTRAL
+Can I reserve the package later,NEUTRAL,HESITANT
+Can I change this room today,NEUTRAL,HESITANT
+What is the booking duration,NEUTRAL,NEUTRAL
+Can I reserve the dates later,NEUTRAL,HESITANT
+Are there any family suites,NEUTRAL,INTERESTED
+What is the package time,NEUTRAL,NEUTRAL
+Do you provide late checkout,NEUTRAL,INTERESTED
+What is the check-in size,NEUTRAL,NEUTRAL
+What is the check-in method,NEUTRAL,NEUTRAL
+Is WiFi available everywhere,NEUTRAL,INTERESTED
+What is the package method,NEUTRAL,NEUTRAL
+Can I modify this room today,NEUTRAL,INTERESTED
+Can the booking be upgraded with spa access,INTERESTED,INTERESTED
+Which upgrade would suit my budget,INTERESTED,INTERESTED
+Would the weekend deal include late checkout,INTERESTED,INTERESTED
+Can you break that down further,INTERESTED,INTERESTED
+Could you add late checkout to this,INTERESTED,INTERESTED
+What makes that room worth choosing,INTERESTED,INTERESTED
+What makes the suite worth booking,INTERESTED,INTERESTED
+What makes that room worth considering,INTERESTED,INTERESTED
+Which package would suit my budget,INTERESTED,INTERESTED
+Would a honeymoon option include breakfast,INTERESTED,INTERESTED
+Which room would suit a couple,INTERESTED,INTERESTED
+Would the suite include room decoration,INTERESTED,INTERESTED
+Would the weekend deal include breakfast,INTERESTED,INTERESTED
+What makes this package worth choosing,INTERESTED,INTERESTED
+Can the current offer be upgraded with spa access,INTERESTED,INTERESTED
+Could you add airport transfer to this,INTERESTED,INTERESTED
+What other special deals do you have,INTERESTED,INTERESTED
+Do you have something with spa,INTERESTED,INTERESTED
+Can that package be upgraded with transport,INTERESTED,INTERESTED
+What makes that room worth upgrading,INTERESTED,INTERESTED
+Which room would suit a family,INTERESTED,INTERESTED
+What makes your top offer worth considering,INTERESTED,INTERESTED
+What makes the premium option worth the price,INTERESTED,INTERESTED
+Would that package include airport pickup,INTERESTED,INTERESTED
+Can that package be upgraded with late checkout,INTERESTED,INTERESTED
+Would the suite include breakfast,INTERESTED,INTERESTED
+Would that package include breakfast,INTERESTED,INTERESTED
+Would the suite include airport pickup,INTERESTED,INTERESTED
+Can the standard option be upgraded with spa access,INTERESTED,INTERESTED
+Can the booking be upgraded with better view,INTERESTED,INTERESTED
+Can this room be upgraded with breakfast,INTERESTED,INTERESTED
+What other couples offers do you have,INTERESTED,INTERESTED
+Would that package include dinner,INTERESTED,INTERESTED
+Which package would suit a family,INTERESTED,INTERESTED
+What makes your top offer worth choosing,INTERESTED,INTERESTED
+What makes your top offer worth the price,INTERESTED,INTERESTED
+Would this offer include spa access,INTERESTED,INTERESTED
+Can you show better room options,INTERESTED,INTERESTED
+What makes the premium option worth booking,INTERESTED,INTERESTED
+What makes the suite worth considering,INTERESTED,INTERESTED
+Which room would suit this trip,INTERESTED,INTERESTED
+Would the suite include spa access,INTERESTED,INTERESTED
+Is there a package with dinner,INTERESTED,INTERESTED
+Would this offer include room decoration,INTERESTED,INTERESTED
+Can you tell me about your weekend packages,INTERESTED,INTERESTED
+Would the deluxe room include breakfast,INTERESTED,INTERESTED
+Which room would suit a short stay,INTERESTED,INTERESTED
+What makes the premium option worth considering,INTERESTED,INTERESTED
+Which deal would suit this trip,INTERESTED,INTERESTED
+Would the weekend deal include dinner,INTERESTED,INTERESTED
+Can you tell me about the sea-view rooms,INTERESTED,INTERESTED
+Can that package be upgraded with spa access,INTERESTED,INTERESTED
+Can the booking be upgraded with breakfast,INTERESTED,INTERESTED
+Can the standard option be upgraded with transport,INTERESTED,INTERESTED
+Can I compare two packages,INTERESTED,INTERESTED
+I am curious about couple packages,INTERESTED,INTERESTED
+Does this package include extras,INTERESTED,INTERESTED
+What makes that room worth booking,INTERESTED,INTERESTED
+I am curious about your upgrade options,INTERESTED,INTERESTED
+Which package would suit a short stay,INTERESTED,INTERESTED
+What makes this package worth upgrading,INTERESTED,INTERESTED
+Can the booking be upgraded with transport,INTERESTED,INTERESTED
+Could you add a balcony room to this,INTERESTED,INTERESTED
+Can this room be upgraded with transport,INTERESTED,INTERESTED
+Which offer would suit a couple,INTERESTED,INTERESTED
+I am curious about weekend specials,INTERESTED,INTERESTED
+Would this offer include late checkout,INTERESTED,INTERESTED
+Can the current offer be upgraded with breakfast,INTERESTED,INTERESTED
+What upgrades would you recommend,INTERESTED,INTERESTED
+Can the standard option be upgraded with better view,INTERESTED,INTERESTED
+Can you show deluxe options,INTERESTED,INTERESTED
+I am curious about the premium rooms,INTERESTED,INTERESTED
+Can this room be upgraded with better view,INTERESTED,INTERESTED
+Would that package include spa access,INTERESTED,INTERESTED
+What makes the suite worth the price,INTERESTED,INTERESTED
+Can the current offer be upgraded with better view,INTERESTED,INTERESTED
+Which package would suit this trip,INTERESTED,INTERESTED
+Can the standard option be upgraded with breakfast,INTERESTED,INTERESTED
+Which offer would suit a short stay,INTERESTED,INTERESTED
+Can you suggest a nicer room,INTERESTED,INTERESTED
+Which upgrade would suit this trip,INTERESTED,INTERESTED
+Which offer would suit a family,INTERESTED,INTERESTED
+Could breakfast be added too,INTERESTED,INTERESTED
+What makes that room worth the price,INTERESTED,INTERESTED
+What makes this package worth the price,INTERESTED,HESITANT
+What makes the suite worth choosing,INTERESTED,INTERESTED
+Can you tell me about family packages,INTERESTED,INTERESTED
+Could you add breakfast to this,INTERESTED,INTERESTED
+What makes the premium option worth upgrading,INTERESTED,INTERESTED
+Could you add dinner to this,INTERESTED,INTERESTED
+Do you offer flexible upgrades,INTERESTED,INTERESTED
+Would this offer include airport pickup,INTERESTED,INTERESTED
+Which deal would suit a short stay,INTERESTED,INTERESTED
+Can the booking be upgraded with late checkout,INTERESTED,INTERESTED
+What makes the premium option worth choosing,INTERESTED,INTERESTED
+What comes with that rate,INTERESTED,INTERESTED
+Which offer would suit my budget,INTERESTED,INTERESTED
+What makes this package worth booking,INTERESTED,INTERESTED
+Would the suite include late checkout,INTERESTED,INTERESTED
+Which offer would suit this trip,INTERESTED,INTERESTED
+This works nicely for me,SATISFIED,SATISFIED
+We can proceed with the deluxe room,SATISFIED,SATISFIED
+That should be suitable for us,SATISFIED,SATISFIED
+This looks like good value,SATISFIED,SATISFIED
+We can proceed with this option,SATISFIED,SATISFIED
+This works perfectly for these dates,SATISFIED,SATISFIED
+That feels fair now,SATISFIED,SATISFIED
+This works nicely for our trip,SATISFIED,SATISFIED
+I can accept that package,SATISFIED,SATISFIED
+That feels balanced and fair,SATISFIED,SATISFIED
+This works fine for me,SATISFIED,SATISFIED
+This works fine for our stay,SATISFIED,SATISFIED
+We can proceed with the room you suggested,SATISFIED,SATISFIED
+I like the upgrade option about this,SATISFIED,INTERESTED
+That room should work well,SATISFIED,SATISFIED
+I am satisfied so far,SATISFIED,SATISFIED
+The price feels reasonable now,SATISFIED,SATISFIED
+This works nicely for the budget,SATISFIED,SATISFIED
+This works smoothly for these dates,SATISFIED,SATISFIED
+I am happy with this deal,SATISFIED,SATISFIED
+This works nicely for our stay,SATISFIED,SATISFIED
+This works fine for our trip,SATISFIED,SATISFIED
+I am content with your offer,SATISFIED,SATISFIED
+I am satisfied with this deal,SATISFIED,SATISFIED
+That should be good enough for us,SATISFIED,SATISFIED
+That should be comfortable for us,SATISFIED,SATISFIED
+I am good with those dates,SATISFIED,SATISFIED
+I am content with the final rate,SATISFIED,SATISFIED
+This works smoothly for the budget,SATISFIED,SATISFIED
+I am good with the package,SATISFIED,SATISFIED
+That should be perfect for us,SATISFIED,SATISFIED
+That feels worth it now,SATISFIED,SATISFIED
+I am pleased with the package,SATISFIED,SATISFIED
+Everything there sounds fine,SATISFIED,SATISFIED
+I am satisfied with that room,SATISFIED,SATISFIED
+This works smoothly for our trip,SATISFIED,SATISFIED
+This seems safe to book,SATISFIED,SATISFIED
+This works well for me,SATISFIED,SATISFIED
+That feels manageable now,SATISFIED,SATISFIED
+I am pleased with this,SATISFIED,SATISFIED
+I am happy with the package,SATISFIED,SATISFIED
+This works perfectly for me,SATISFIED,SATISFIED
+I am comfortable with the package,SATISFIED,SATISFIED
+I am good with the full offer,SATISFIED,SATISFIED
+I like the flexibility about this,SATISFIED,SATISFIED
+This works fine for the budget,SATISFIED,SATISFIED
+This works well for these dates,SATISFIED,SATISFIED
+I am satisfied with your offer,SATISFIED,SATISFIED
+I am comfortable with that room,SATISFIED,SATISFIED
+I am happy with that room,SATISFIED,SATISFIED
+This meets what I needed,SATISFIED,SATISFIED
+I like the package details about this,SATISFIED,SATISFIED
+That feels well priced now,SATISFIED,SATISFIED
+"Yes, that works for me",SATISFIED,SATISFIED
+I am happy with that,SATISFIED,SATISFIED
+I am pleased with this deal,SATISFIED,SATISFIED
+This package works nicely,SATISFIED,SATISFIED
+I am pleased with your offer,SATISFIED,SATISFIED
+This works perfectly for our trip,SATISFIED,SATISFIED
+That arrangement makes sense,SATISFIED,SATISFIED
+I am pleased with that room,SATISFIED,SATISFIED
+That feels reasonable now,SATISFIED,SATISFIED
+This looks good overall,SATISFIED,SATISFIED
+This option seems right,SATISFIED,SATISFIED
+This works fine for these dates,SATISFIED,SATISFIED
+This works perfectly for the budget,SATISFIED,SATISFIED
+This works smoothly for our stay,SATISFIED,SATISFIED
+I am good with your latest rate,SATISFIED,SATISFIED
+I am satisfied with the package,SATISFIED,SATISFIED
+This seems appropriate to book,SATISFIED,SATISFIED
+This works well for our stay,SATISFIED,SATISFIED
+I am content with that room,SATISFIED,SATISFIED
+I am satisfied with the final rate,SATISFIED,SATISFIED
+I am happy with your offer,SATISFIED,SATISFIED
+I am comfortable with this deal,SATISFIED,SATISFIED
+I am comfortable with the final rate,SATISFIED,SATISFIED
+We can proceed with that package,SATISFIED,SATISFIED
+That should be fine for us,SATISFIED,SATISFIED
+I like the final price about this,SATISFIED,SATISFIED
+I can go ahead with this,SATISFIED,SATISFIED
+I am pleased with the final rate,SATISFIED,SATISFIED
+I like the room setup about this,SATISFIED,SATISFIED
+This works perfectly for our stay,SATISFIED,SATISFIED
+I like the included breakfast about this,SATISFIED,SATISFIED
+We can proceed with the current rate,SATISFIED,SATISFIED
+This seems reasonable to book,SATISFIED,SATISFIED
+That sounds fair to me,SATISFIED,SATISFIED
+This works well for our trip,SATISFIED,SATISFIED
+This seems worthwhile to book,SATISFIED,SATISFIED
+I am content with the package,SATISFIED,SATISFIED
+I am good with this room,SATISFIED,SATISFIED
+This works well for the budget,SATISFIED,SATISFIED
+That offer suits me well,SATISFIED,SATISFIED
+This seems solid to book,SATISFIED,SATISFIED
+I am comfortable with your offer,SATISFIED,SATISFIED
+That should be just right for us,SATISFIED,SATISFIED
+This works smoothly for me,SATISFIED,SATISFIED
+This seems comfortable to book,SATISFIED,SATISFIED
+I am content with this deal,SATISFIED,SATISFIED
+This works nicely for these dates,SATISFIED,SATISFIED
+I would happily book that offer,EXCITED,SATISFIED
+This is exactly our vibe,EXCITED,SATISFIED
+What a perfect upgrade,EXCITED,EXCITED
+Wow that sounds amazing,EXCITED,EXCITED
+This offer looks perfect,EXCITED,SATISFIED
+This offer looks brilliant,EXCITED,EXCITED
+I am thrilled by this,EXCITED,EXCITED
+I cannot wait to check in,EXCITED,EXCITED
+This offer looks fantastic,EXCITED,EXCITED
+I cannot wait to stay there,EXCITED,EXCITED
+This is brilliant for our trip,EXCITED,EXCITED
+That sounds incredible right now,EXCITED,EXCITED
+This offer looks incredible,EXCITED,EXCITED
+I am seriously excited about that room,EXCITED,EXCITED
+I love this so much,EXCITED,EXCITED
+This feels like a dream,EXCITED,EXCITED
+That sounds perfect right now,EXCITED,SATISFIED
+What a beautiful package,EXCITED,SATISFIED
+That sounds brilliant right now,EXCITED,EXCITED
+What a perfect room,EXCITED,SATISFIED
+This is beyond perfect,EXCITED,EXCITED
+I cannot wait to book this,EXCITED,EXCITED
+I would happily book right now,EXCITED,EXCITED
+I would happily book this package,EXCITED,SATISFIED
+That sounds awesome right now,EXCITED,EXCITED
+This looks absolutely perfect,EXCITED,SATISFIED
+This room looks amazing,EXCITED,EXCITED
+This offer looks amazing,EXCITED,EXCITED
+I am seriously excited about the upgrade,EXCITED,EXCITED
+Now I am even more excited,EXCITED,EXCITED
+This package looks fantastic,EXCITED,EXCITED
+This deal looks incredible,EXCITED,EXCITED
+What a fantastic room,EXCITED,EXCITED
+I am seriously excited about the package,EXCITED,EXCITED
+What a fantastic offer,EXCITED,EXCITED
+I would happily book the suite,EXCITED,SATISFIED
+I cannot wait to confirm everything,EXCITED,EXCITED
+That sounds wonderful for us,EXCITED,SATISFIED
+What a brilliant offer,EXCITED,EXCITED
+What a dream offer,EXCITED,EXCITED
+This offer looks wonderful,EXCITED,SATISFIED
+This deal looks perfect,EXCITED,SATISFIED
+I would happily book this tonight,EXCITED,EXCITED
+I am seriously excited about this stay,EXCITED,EXCITED
+I really want this package,EXCITED,EXCITED
+I cannot wait to see the room,EXCITED,EXCITED
+This upgrade looks amazing,EXCITED,EXCITED
+This is ideal for our trip,EXCITED,SATISFIED
+This upgrade looks perfect,EXCITED,SATISFIED
+I cannot wait for this,EXCITED,EXCITED
+This upgrade looks fantastic,EXCITED,EXCITED
+This upgrade looks brilliant,EXCITED,EXCITED
+This package looks brilliant,EXCITED,EXCITED
+What a brilliant package,EXCITED,EXCITED
+What a beautiful offer,EXCITED,SATISFIED
+Wow I love this option,EXCITED,EXCITED
+This package looks amazing,EXCITED,EXCITED
+We would love your best offer,EXCITED,INTERESTED
+This room looks fantastic,EXCITED,EXCITED
+This package looks perfect,EXCITED,SATISFIED
+I am seriously excited about this trip,EXCITED,EXCITED
+This deal looks wonderful,EXCITED,EXCITED
+What a perfect deal,EXCITED,EXCITED
+This room looks perfect,EXCITED,SATISFIED
+What a beautiful deal,EXCITED,EXCITED
+We would love this upgrade,EXCITED,EXCITED
+This package looks incredible,EXCITED,EXCITED
+This is amazing for our trip,EXCITED,EXCITED
+What a great offer,EXCITED,SATISFIED
+We would love the sea-view room,EXCITED,INTERESTED
+This deal looks amazing,EXCITED,EXCITED
+This made my day honestly,EXCITED,EXCITED
+What a beautiful upgrade,EXCITED,EXCITED
+I am ready to book,EXCITED,SATISFIED
+I am eager to confirm,EXCITED,EXCITED
+This package looks wonderful,EXCITED,INTERESTED
+That sounds exciting right now,EXCITED,EXCITED
+What a brilliant upgrade,EXCITED,EXCITED
+That sounds magical right now,EXCITED,EXCITED
+This is such good news,EXCITED,EXCITED
+This upgrade looks incredible,EXCITED,EXCITED
+What a fantastic package,EXCITED,EXCITED
+I cannot wait to finalize this,EXCITED,EXCITED
+What a dream room,EXCITED,EXCITED
+What a dream package,EXCITED,EXCITED
+This upgrade looks wonderful,EXCITED,EXCITED
+That package is incredible,EXCITED,EXCITED
+We would love that weekend deal,EXCITED,EXCITED
+What a beautiful room,EXCITED,SATISFIED
+This room looks brilliant,EXCITED,EXCITED
+What a brilliant room,EXCITED,EXCITED
+I am seriously excited about booking now,EXCITED,EXCITED
+This deal looks fantastic,EXCITED,EXCITED
+This room looks incredible,EXCITED,EXCITED
+What a dream deal,EXCITED,EXCITED
+I would happily book that room,EXCITED,SATISFIED
+This is fantastic for our trip,EXCITED,EXCITED
+This is perfect for our trip,EXCITED,SATISFIED
+What a perfect offer,EXCITED,SATISFIED
+What a fantastic deal,EXCITED,EXCITED
